@@ -4,6 +4,6 @@
     <title>join</title>
 </head>
 <body>
-    <p>SELAMAT BERGABUNG</p>
+    <p>SELAMAT BERGABUNG KAWAND!!!</p>
 </body>
 </html>
